@@ -57,7 +57,7 @@ These lines will create the tables and a user for you to start, however in the a
     cd ..
     ```
 
-6. **Start the application**.
+7. **Start the application**.
 
 Make sure you are in the root of the project
 
