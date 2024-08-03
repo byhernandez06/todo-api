@@ -67,7 +67,7 @@ Make sure you are in the root of the project
 
 ## Usage
 
-The repository has a collection that you can see through Postman, it is quite clear, you will see the methods with their respective urls, body and other information.
+The repository has a collection that you can see through Postman, it is quite clear, you will see the methods with their respective urls, body and other information. Do a correct login and the get the token, add it in all requests, go to Authorization/Bearer token, and add it there.
 
 ## Contributing
 
